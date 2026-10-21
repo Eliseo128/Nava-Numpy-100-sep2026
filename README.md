@@ -1,5 +1,5 @@
 ## 100 ejercicios de numpy en español
-
+https://github.com/birhekobo/mastering-numpy.git
 [![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/rougier/numpy-100/notebooks/100%20Numpy%20exercises.ipynb)
 
 Esta es una colección de ejercicios recogidos de distintas fuentes como: numpy mailing list, stackoverflow Y
